@@ -1,0 +1,23 @@
+EVERYTHING>>>>>>>>
+	Genetic algorithum/evoltuion
+		Statistical implementation
+		chromosomes
+		population distribution
+	Gui
+		made a world
+		make it persistent
+		make resources etc
+	Cli-server
+		connect to server
+		save shit
+		reload shit
+		updatedb
+		
+//0=fighting-agressiveness interactionType culture type
+//1=farming-culture societyType economic type(com)
+//2=mining-culture type, society type, economic type(capital)
+//3=mating-society type,agresiveness 
+//4=trading-interaction,agressiveness, economic type
+//5=exploring-agressiveness, societal type, interaction type
+//6=resource finding-economic type, agressiveness, culture type
+//7=morale-agressiveness, interaction, culture(ART)
